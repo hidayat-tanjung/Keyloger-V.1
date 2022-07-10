@@ -1,7 +1,7 @@
 from pynput import keyboard
 
 banner = """ 
-     [!] Youtube-Download V.1
+     [!] global_hotkeys
      [!] By : X3NUX
      [!] www.niasxploit.com
 """
